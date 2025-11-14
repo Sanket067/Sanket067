@@ -59,9 +59,10 @@ Focused on **Frontend + Backend** and improving everyday.
 
 ---
 
-## 📫 Contact Me   
+## 📫 Contact Me  
 🔗 GitHub: **[github.com/Sanket067](https://github.com/Sanket067)**  
+🔗 LinkedIn: **[linkedin.com/in/sanketlohar067](https://www.linkedin.com/in/sanketlohar067)**  
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
